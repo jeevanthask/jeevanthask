@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there I am Nandika Jeevantha👋
+Trainee Software Engineer in Virtusa (pvt) Ltd.
+An undergraduate in Computing and Inormation Systems in Sabaragamuwa University of SriLanka
 
-<!--
-**jeevanthask/jeevanthask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Trust Me!.I am Professional.
+
 
 Here are some ideas to get you started:
 
