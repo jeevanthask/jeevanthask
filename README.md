@@ -1,18 +1,16 @@
 ### Hi there I am Nandika Jeevantha👋
 Trainee Software Engineer in Virtusa (pvt) Ltd.
-An undergraduate in Computing and Inormation Systems in Sabaragamuwa University of SriLanka
+Computing and Inormation Systems Undergraduate in Sabaragamuwa University of SriLanka
 
-##Trust Me!.I am Professional.
+Trust Me!I am Professional.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in,
+  JavaScript
+  ReactJS
+  AngularJS
+  NodeJS  
+  ExpressJS
+  Python
+  Java
+  
+  <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
