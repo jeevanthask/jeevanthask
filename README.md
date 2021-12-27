@@ -1,5 +1,5 @@
 ### Hi there I am Nandika Jeevantha👋
-Software Engineer in Virtusa.
+Software Engineer @ Virtusa.
 
 Trust Me! I am Professional.
 
