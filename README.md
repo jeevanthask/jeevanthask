@@ -1,6 +1,5 @@
 ### Hi there I am Nandika Jeevantha👋
-Trainee Software Engineer in Virtusa.
-Computing and Inormation Systems Undergraduate in Sabaragamuwa University of SriLanka.
+Software Engineer in Virtusa.
 
 Trust Me! I am Professional.
 
